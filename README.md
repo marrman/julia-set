@@ -5,4 +5,3 @@ c value is chosen by user
 reccomend choosing 0 <= c <= 1
 
 f(z) => z^2 + c
-
